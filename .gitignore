@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+
+amazon_items.json
+amazon_items.csv
+
+.DS_Store
+.idea/
+.vscode/
