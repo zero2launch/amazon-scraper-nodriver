@@ -5,9 +5,6 @@ __pycache__/
 venv/
 .env
 
-amazon_items.json
-amazon_items.csv
-
 .DS_Store
 .idea/
 .vscode/
